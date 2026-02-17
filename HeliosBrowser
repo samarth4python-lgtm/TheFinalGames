@@ -764,7 +764,7 @@
   white-space: nowrap;
 }
 
-.Xt7Lm9Kp3R8f:not(:has(:only-child:contains("𝙼𝚊𝚍𝚎 𝚋𝚢 𝚍𝚒𝚗𝚐𝚞𝚜𝚌𝚑𝚊𝚗!"))) {
+.Xt7Lm9Kp3R8f:not(:has(:only-child:contains("Made By BwookyLovPancakes"))) {
   color: none;
   font-size: 1px;
 }
